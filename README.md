@@ -1,6 +1,6 @@
 #Instructions: 
 
-Clone the repository: git clone <repository-url> 
+Clone the repository: git clone https://github.com/12Aryan/connectwise-assignment 
 
 Install dependencies using: npm i -f .
 
